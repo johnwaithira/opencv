@@ -19,7 +19,3 @@ while(True):
 video.release()
 cv2.destroyAllWindows()
 
-
-#check the code from my github 
-
-# https://github.com/johnwaithira/opencv
